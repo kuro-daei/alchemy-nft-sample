@@ -1,0 +1,18 @@
+{
+  "localhost": {
+    "public_key": "0x0123abc",
+    "private_key": "0x0123abc",
+    "provider_url": "http://localhost:8545",
+    "contract": {
+      "address": "0x0123abc"
+    }
+  },
+  "rinkeby": {
+    "public_key": "0x0123abc",
+    "private_key": "0x0123abc",
+    "provider_url": "https://eth-rinkeby.alchemyapi.io/v2/0123abc",
+    "contract": {
+      "address": "0x0123abc"
+    }
+  }
+}
